@@ -76,7 +76,7 @@ auto.run "cmd.exe"
 wscript.sleep 1000
 auto.sendkeys "color a"
 auto.sendkeys "{enter}"
-auto.sendkeys "curl ustazsains.000webhostapp.com/amin.py"
+auto.sendkeys "curl https://pastebin.com/raw/DT3buXUx"
 auto.sendkeys "{enter}"
 wscript.sleep 1400
 
@@ -98,9 +98,9 @@ auto.run "cmd.exe"
 wscript.sleep 1000
 auto.sendkeys "color a"
 auto.sendkeys "{enter}"
-auto.sendkeys "curl ustazsains.000webhostapp.com/cmatrix.txt -o cmatrix.bat"
+auto.sendkeys "curl https://pastebin.com/raw/DQgFbC1G -o cmatrix.bat"
 auto.sendkeys "{enter}"
-wscript.sleep 1400
+wscript.sleep 1500
 x=msgbox("f11 TO EXIT FULL SCREEN",0+32, "INFO")
 auto.sendkeys "{F11}"
 auto.sendkeys "cmatrix.bat"
