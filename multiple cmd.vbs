@@ -76,7 +76,7 @@ auto.run "cmd.exe"
 wscript.sleep 1000
 auto.sendkeys "color a"
 auto.sendkeys "{enter}"
-auto.sendkeys "curl https://pastebin.com/raw/DT3buXUx"
+auto.sendkeys "curl https://pastebin.com/raw/ype6w3pV"
 auto.sendkeys "{enter}"
 wscript.sleep 1400
 
@@ -84,7 +84,7 @@ auto.run "cmd.exe"
 wscript.sleep 1000
 auto.sendkeys "color a"
 auto.sendkeys "{enter}"
-auto.sendkeys "title aminzikryy was here"
+auto.sendkeys "title apambalik1337 was here"
 auto.sendkeys "{enter}"
 wscript.sleep 1000
 
@@ -115,6 +115,6 @@ wscript.sleep 1000
 x=msgbox("Let's hear some music?   ",0+32, "INFO")
 auto.sendkeys "start https://youtu.be/6WW9odZxunk"
 auto.sendkeys "{enter}"
-x=msgbox("byebyee",0+32, "@aminzikryy")
+x=msgbox("byebyee",0+32, "@apambalik1337")
 
 end if
